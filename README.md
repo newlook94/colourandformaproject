@@ -25,9 +25,9 @@ a:visited { color: #50C13C;
 }
 </script>
 </HEAD><BODY > <script language="JavaScript" src="../../.js"></script>
- <center><font face="" size=4>Gallery</font></center>
+ 
 
-<TD width="50%" rowspan="5"><IMG border="0" name="" src="girl.jpg"  width="500" height="400"></TD>
+
 
 <H2> </H2>
 <P> </P><script language="JavaScript" src="../../c_small.js"></script>
