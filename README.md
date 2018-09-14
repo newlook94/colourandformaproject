@@ -26,7 +26,7 @@ a:visited { color: #50C13C;
 </script>
 </HEAD><BODY > <script language="JavaScript" src="../../.js"></script>
  <center><font face="" size=4>Gallery</font></center>
-<TABLE border="0" cellspacing="0" width="90%"><TR><TD width="50%" align=""><A href="#picture" onmouseover="document.visible.src=imgSrc[0].src">Абу Симбел</A></TD>
+
 <TD width="50%" rowspan="5"><IMG border="0" name="" src="girl.jpg"  width="500" height="400"></TD>
 
 <H2> </H2>
